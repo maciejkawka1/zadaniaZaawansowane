@@ -3,6 +3,8 @@ package zad1;
 import java.util.*;
 import java.util.stream.Collectors;
 
+
+//Stwórz metodę, która jako parametr przyjmuje listę stringów, następnie zwraca tą listę posortowaną alfabetycznie od Z do A.
 public class Main {
     public static void main(String[] args) {
         List<String> listaStringow = new ArrayList<>();
